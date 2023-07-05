@@ -1,0 +1,80 @@
+Copy code
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Header Styles */
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+/* Home Section Styles */
+#home {
+  padding: 40px;
+  text-align: center;
+}
+
+/* Counties Section Styles */
+#counties {
+  background-color: #f9f9f9;
+  padding: 40px;
+}
+
+.county-services {
+  margin-bottom: 20px;
+}
+
+.county-services h3 {
+  margin: 0;
+}
+
+/* National Services Section Styles */
+#national {
+  padding: 40px;
+}
+
+.national-services p {
+  margin: 0;
+}
+
+/* Contact Section Styles */
+#contact {
+  background-color: #f2f2f2;
+  padding: 40px;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
